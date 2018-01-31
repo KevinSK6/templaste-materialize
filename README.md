@@ -14,7 +14,7 @@ Abren la consola y ubican la carpeta css
 
 después usamos sass 
 
-sass --watch style.scss --style expanded 
+- sass --watch style.scss --style expanded 
 
 Puede poner el --style que quiera
 -
