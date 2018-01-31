@@ -7,7 +7,7 @@ templaste-materialize
 
 Para que pueda funcionar debe tener el procesasdor SASS 
 
-Abren la consola y ubican la carpeta css
+Abren la consola cmd y ubican la carpeta css
 -
 
 - C:\xampp\htdocs\proyects\templaste-materialize\css
