@@ -21,7 +21,9 @@ Puede poner el --style que quiera
 - compressed 
 - expanded
 - compact
-
+============
+#
+#
 
 También tiene integrado 
  - 
